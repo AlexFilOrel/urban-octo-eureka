@@ -16,7 +16,7 @@ for (int rows = 0; rows < 2; rows++)
 
 //-----------------------------------------------------
 
-/*int[,] matrix = new int[3, 4];
+/*int[,] matrix = new int[m, n];
 
 for (int i = 0; i < matrix.GetLength(0); i++)
 {
